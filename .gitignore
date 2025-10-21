@@ -16,6 +16,8 @@
 
 # Mac OSX
 .DS_Store
+/src/.DS_Store
+/src/test/.DS_Store
 
 #VS code
 /.vscode
