@@ -9,6 +9,11 @@
   - Proverbial Android demo application by LambdaTest 
 - This repo uses `Pytest` testing framework for running the tests.
 
+## :computer: Blog and Video Links
+
+- [Appium Python: A Complete Tutorial for Mobile App Automation](https://medium.com/@iamfaisalkhatri/appium-python-a-complete-tutorial-for-mobile-app-automation-b002faac26a2)
+
+
 ## :question: Need Assistance?
 
 - Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
